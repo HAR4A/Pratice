@@ -1,0 +1,15 @@
+E:\Pratice\Mentoring\bin\Debug\net9.0\Mentoring.exe
+E:\Pratice\Mentoring\bin\Debug\net9.0\Mentoring.deps.json
+E:\Pratice\Mentoring\bin\Debug\net9.0\Mentoring.runtimeconfig.json
+E:\Pratice\Mentoring\bin\Debug\net9.0\Mentoring.dll
+E:\Pratice\Mentoring\bin\Debug\net9.0\Mentoring.pdb
+E:\Pratice\Mentoring\obj\Debug\net9.0\Mentoring.GeneratedMSBuildEditorConfig.editorconfig
+E:\Pratice\Mentoring\obj\Debug\net9.0\Mentoring.AssemblyInfoInputs.cache
+E:\Pratice\Mentoring\obj\Debug\net9.0\Mentoring.AssemblyInfo.cs
+E:\Pratice\Mentoring\obj\Debug\net9.0\Mentoring.csproj.CoreCompileInputs.cache
+E:\Pratice\Mentoring\obj\Debug\net9.0\Mentoring.sourcelink.json
+E:\Pratice\Mentoring\obj\Debug\net9.0\Mentoring.dll
+E:\Pratice\Mentoring\obj\Debug\net9.0\refint\Mentoring.dll
+E:\Pratice\Mentoring\obj\Debug\net9.0\Mentoring.pdb
+E:\Pratice\Mentoring\obj\Debug\net9.0\Mentoring.genruntimeconfig.cache
+E:\Pratice\Mentoring\obj\Debug\net9.0\ref\Mentoring.dll
