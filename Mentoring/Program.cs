@@ -4,8 +4,7 @@
     {
         public static void Main(string[] args)
         {
-            DictionaryPractice dictionary = new DictionaryPractice();
-            dictionary.ManageShoppingList();
+            
         }
     }
 }

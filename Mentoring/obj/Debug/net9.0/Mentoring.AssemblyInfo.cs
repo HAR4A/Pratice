@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mentoring")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+506e5887815d0c7153287d9fbb59a9f1a7880df3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8baeeb9060d172aba6d1f4905ee255bb0082b1bc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mentoring")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mentoring")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
